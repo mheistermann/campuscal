@@ -2,7 +2,7 @@
 
 ## Description
 
-CampusOffice is the a university course management system which is used
+CampusOffice is the university course management system used
 at RWTH Aachen University.
 
 This script is intended to provide CampusOffice ical data via HTTP without
@@ -15,7 +15,7 @@ by a private token)
 You will need to run this on a webserver somewhere (maybe even on localhost
 for a local calendar client).
 
-campuscal also supports multiple user accounts.
+*campuscal* also supports multiple user accounts.
 
 **Warning**: be be careful not to leak your config.py, as we cannot avoid
 storing the very sensitive CampusOffice passwords.
