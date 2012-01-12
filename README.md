@@ -3,8 +3,8 @@
 This script is intended to aid import of RWTH CampusOffice calendars
 into google calendar etc.
 
-Homepage: <https://github.com/mheistermann/rwth-campuscal>
-Author: Martin Heistermann, <mh-git@sponc.de>
+* Homepage: <https://github.com/mheistermann/rwth-campuscal>
+* Author: Martin Heistermann, <mh-git@sponc.de>
 
 ## Dependencies
 
