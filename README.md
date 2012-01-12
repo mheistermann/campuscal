@@ -1,4 +1,4 @@
-# rwth-campuscal
+# campuscal
 
 ## Description
 
